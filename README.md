@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mille-Noire
+- 👋 Hi, I’m @Mille-Noire aka Johannes Urban
 - 👀 I’m interested in learning to code.
 - 🌱 I’m currently learning C#.
 - 💞️ I’m looking for a apprenticeship.
