@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning to code.
 - 🌱 I’m currently learning C#.
 - 💞️ I’m looking for a apprenticeship.
-- 📫 Mill3@web.de
+- 📫 johannes@urban87.de
 
 <!---
 Mille-Noire/Mille-Noire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
