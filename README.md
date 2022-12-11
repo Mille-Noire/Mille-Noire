@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mille-Noire
 - 👀 I’m interested in learning to code.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning C#.
 - 💞️ I’m looking for a apprenticeship.
 - 📫 Mill3@web.de
 
